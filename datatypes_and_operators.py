@@ -1,5 +1,4 @@
 #Veri Tipleri ve Operatörler
-from sympy import false
 
 #Bölüm 1.1
 isim = input("ADINIZ ve SOYADINIZ: ")
@@ -91,4 +90,5 @@ elif 13 < yas < 17:
     print("Ergensiniz.")
 else:
     print("Yetişkinsiniz.")
+
 
